@@ -1,29 +1,29 @@
-# 📚 Academic Message Classifier using NLP
+# Academic Message Classifier using NLP
 
-An intelligent NLP-based system that automatically classifies academic-related messages into meaningful categories such as **Events**, **Tech Talks**, **Auditions**, and **Other Academic Notices**.
+An intelligent NLP-based system that automatically classifies academic-related messages into meaningful categories such as Events, Tech Talks, Auditions, and Other Academic Notices.
 
 The project also extracts important information like:
-- 📅 Event Dates
-- ⏰ Event Times
-- 📝 Registration / Submission Deadlines
+- Event Dates
+- Event Times
+- Registration / Submission Deadlines
 
 and simulates reminders for important academic activities.
 
 ---
 
-# 🚀 Features
+# Features
 
-✅ Academic message classification using NLP  
-✅ TF-IDF based feature extraction  
-✅ Multinomial Naive Bayes classifier  
-✅ OCR support for scanned image announcements  
-✅ Regex-based extraction of dates and deadlines  
-✅ Reminder simulation for events and tech talks  
-✅ Interactive menu-driven system  
+- Academic message classification using NLP  
+- TF-IDF based feature extraction  
+- Multinomial Naive Bayes classifier  
+- OCR support for scanned image announcements  
+- Regex-based extraction of dates and deadlines  
+- Reminder simulation for events and tech talks  
+- Interactive menu-driven system  
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 - Python
 - Scikit-learn
@@ -35,7 +35,7 @@ and simulates reminders for important academic activities.
 
 ---
 
-# 📌 Project Workflow
+# Project Workflow
 
 1. Input academic text message or image  
 2. Preprocess text data  
@@ -46,7 +46,7 @@ and simulates reminders for important academic activities.
 
 ---
 
-# 📂 Categories Supported
+# Categories Supported
 
 | Category | Examples |
 |---|---|
@@ -57,7 +57,7 @@ and simulates reminders for important academic activities.
 
 ---
 
-# 📸 Sample Output
+# Sample Output
 
 ### Example Input
 ```text
@@ -74,9 +74,9 @@ Reminder Set Successfully
 
 ---
 
-# 🔍 OCR Support
+# OCR Support
 
-The system can also process text from image-based announcements using **Pytesseract OCR**.
+The system can also process text from image-based announcements using Pytesseract OCR.
 
 Example:
 - WhatsApp posters
@@ -85,7 +85,7 @@ Example:
 
 ---
 
-# 📊 Model Information
+# Model Information
 
 | Component | Technique Used |
 |---|---|
@@ -96,7 +96,7 @@ Example:
 
 ---
 
-# 🎯 Future Improvements
+# Future Improvements
 
 - Integration with Google Calendar
 - WhatsApp / Gmail integration
@@ -106,7 +106,7 @@ Example:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 automatic-academic-message-classifier-nlp/
@@ -121,19 +121,22 @@ automatic-academic-message-classifier-nlp/
 
 ---
 
-# 👩‍💻 Author
+# Author
 
-**Anna Rose Thomas**  
+Anna Rose Thomas  
 B.Tech AIML & Data Science  
 CHRIST (Deemed to be University)
 
 ---
 
-# ⭐ Project Highlights
+# Project Highlights
 
 - Real-world student-focused NLP application
-- Combines Machine Learning + OCR + Regex
+- Combines Machine Learning, OCR, and Regex
 - Lightweight and beginner-friendly
 - Practical academic automation use case
 
 ---
+
+
+
